@@ -16,3 +16,8 @@
 
 This repo is under the GNU General Public License v3.0.<br>
 See [LICENSE](https://github.com/a01sa01to/https://github.com/TwitmundDev/JsonGen.py/blob/master/LICENSE) File.
+
+
+
+## Crédit 
+Idée de base [Antoineok](https://github.com/antoineok)
