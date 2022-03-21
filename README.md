@@ -6,15 +6,12 @@
 [Try now!](https://github.com/TwitmundDev/JsonGen.py/)
 
 ## Author
-
-[Creator of the readme template ->!][Follow @a01sa01to](https://img.shields.io/twitter/follow/a01sa01to?label=Follow&style=social&maxAge=3600, "Follow
- him")](https://twitter.com/intent/follow?screen_name=a01sa01to)<br>
 [Twitmund](https://github.com/TwitmundDev/)<br>
 
 ## License
 
 This repo is under the GNU General Public License v3.0.<br>
-See [LICENSE](https://github.com/a01sa01to/https://github.com/TwitmundDev/JsonGen.py/blob/master/LICENSE) File.
+See [LICENSE](https://github.com/TwitmundDev/JsonGen.py/blob/master/LICENSE) File.
 
 
 
