@@ -3,7 +3,7 @@
 
 ## What's this?
 
-[Try now!](https://repos.a01sa01to.com/https://github.com/TwitmundDev/JsonGen.py/)
+[Try now!](https://github.com/TwitmundDev/JsonGen.py/)
 
 ## Author
 
