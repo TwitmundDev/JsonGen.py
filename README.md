@@ -7,7 +7,8 @@
 
 ## Author
 
-[![Follow @a01sa01to](https://img.shields.io/twitter/follow/a01sa01to?label=Follow&style=social&maxAge=3600, "Follow")](https://twitter.com/intent/follow?screen_name=a01sa01to)<br>
+[Creator of the readme template ->!][Follow @a01sa01to](https://img.shields.io/twitter/follow/a01sa01to?label=Follow&style=social&maxAge=3600, "Follow
+ him")](https://twitter.com/intent/follow?screen_name=a01sa01to)<br>
 [Twitmund](https://github.com/TwitmundDev/)<br>
 
 ## License
