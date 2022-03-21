@@ -1,10 +1,5 @@
 # https://github.com/TwitmundDev/JsonGen.py
 
-
-## What's this?
-
-[Try now!](https://github.com/TwitmundDev/JsonGen.py/)
-
 ## Author
 [Twitmund](https://github.com/TwitmundDev/)<br>
 
